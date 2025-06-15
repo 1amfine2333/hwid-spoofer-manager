@@ -3,6 +3,8 @@
 
 全面支持Windows10 - Windows11系统64位各种版本
 
+简单易懂，方便上手，兼容性好，持续更新
+
 # 程序界面
 ![image](https://github.com/user-attachments/assets/6e3a272b-942e-4cf7-82d3-e52b137aa66f)
 
