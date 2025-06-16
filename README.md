@@ -8,6 +8,9 @@
 # 程序界面
 ![image](https://github.com/user-attachments/assets/6e3a272b-942e-4cf7-82d3-e52b137aa66f)
 
+# 演示视频
+[![Watch the video](https://github.com/user-attachments/assets/6e3a272b-942e-4cf7-82d3-e52b137aa66f)]([https://www.youtube.com/embed/APOPm01BVrk](https://easylink.cc/7njvyr))
+
 # 在线文档
 [金山文档](https://www.kdocs.cn/l/cad0y7MyhKkM)
 
