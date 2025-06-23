@@ -8,6 +8,9 @@
 # 程序界面
 ![image](https://github.com/user-attachments/assets/6e3a272b-942e-4cf7-82d3-e52b137aa66f)
 
+# 用户密钥
+20230519-0051-T70O-23H8-HHWSILX0TXFA
+
 # 版本日志
 [2025.06.23] 第二次更新，加入禁用内存SPD序列号功能。
 
