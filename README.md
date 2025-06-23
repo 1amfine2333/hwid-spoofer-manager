@@ -22,7 +22,7 @@
 [金山文档](https://www.kdocs.cn/l/cad0y7MyhKkM)
 
 # 下载地址
-[蓝奏云](https://wwqp.lanzouw.com/iOKVj2yxl6eb "立即下载")
+[蓝奏云](https://wwqp.lanzouw.com/ihalM2zfayna "立即下载")
 
 # 问题反馈
 [Telegram](https://t.me/indigosable)
