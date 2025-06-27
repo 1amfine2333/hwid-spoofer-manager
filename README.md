@@ -6,7 +6,7 @@
 简单易懂，方便上手，兼容性好，无痕修改，持续更新
 
 # 程序界面
-![image](https://github.com/user-attachments/assets/6e3a272b-942e-4cf7-82d3-e52b137aa66f)
+![image](spoofer.png)
 
 # 用户密钥
 20230519-0051-T70O-23H8-HHWSILX0TXFA
