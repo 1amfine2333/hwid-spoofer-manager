@@ -32,18 +32,22 @@
 
 [2025.06.27] 第三次更新，加入自启动（未完成）、屏幕（未完成）、修复某些系统无法成功加载驱动问题。
 
+[2025.06.29] 第四次更新，自启动支持硬盘、卷标、主板、网卡这四个功能了。
+
 # 程序视频
-[使用教程](https://easylink.cc/ecc6rn)
+[程序使用教程](https://easylink.cc/ecc6rn)
 
 [修改C盘分区教程](https://easylink.cc/7njvyr)
 
-[禁用SPD内存](https://easylink.cc/1mjywm)
+[禁用SPD内存教程](https://easylink.cc/1mjywm)
+
+[设置自启动教程](https://easylink.cc/1lasai)
 
 # 在线文档
 [金山文档](https://www.kdocs.cn/l/cad0y7MyhKkM)
 
 # 下载地址
-[蓝奏云 2025.06.27](https://wwqp.lanzouw.com/ifzMx2zojzde "立即下载")
+[蓝奏云 2025.06.29](https://wwqp.lanzouw.com/ibwSf2zv9dri "立即下载")
 
 # 问题反馈
 [Telegram](https://t.me/indigosable)
