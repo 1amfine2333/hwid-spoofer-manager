@@ -34,6 +34,8 @@
 
 [2025.06.29] 第四次更新，自启动支持硬盘、卷标、主板、网卡这四个功能了。
 
+[2025.06.30] 第五次更新，优化一些自启动功能。
+
 # 程序视频
 [程序使用教程](https://easylink.cc/ecc6rn)
 
@@ -41,13 +43,13 @@
 
 [禁用SPD内存教程](https://easylink.cc/1mjywm)
 
-[设置自启动教程](https://easylink.cc/1lasai)
+[设置自启动教程](https://easylink.cc/mitb6r)
 
 # 在线文档
 [金山文档](https://www.kdocs.cn/l/cad0y7MyhKkM)
 
 # 下载地址
-[蓝奏云 2025.06.29](https://wwqp.lanzouw.com/ibwSf2zv9dri "立即下载")
+[蓝奏云 2025.06.30](https://wwqp.lanzouw.com/ihnUD2zzafib "立即下载")
 
 # 问题反馈
 [Telegram](https://t.me/indigosable)
