@@ -38,6 +38,8 @@
 
 [2025.07.02] 第六次更新，优化主板信息按类型显示与修改。
 
+[2025.07.03] 第七次更新，支持查看NVIDIA显卡信息，至于如何修改还在研究中。
+
 # 程序视频
 [程序使用教程](https://easylink.cc/ecc6rn)
 
@@ -51,7 +53,7 @@
 [金山文档](https://www.kdocs.cn/l/cad0y7MyhKkM)
 
 # 下载地址
-[蓝奏云 2025.07.02](https://wwqp.lanzouw.com/ijm9d304v4le "立即下载")
+[蓝奏云 2025.07.03](https://wwqp.lanzouw.com/ioPXx307ndcj "立即下载")
 
 # 问题反馈
 [Telegram](https://t.me/indigosable)
