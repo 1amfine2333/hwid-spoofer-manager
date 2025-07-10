@@ -40,6 +40,8 @@
 
 [2025.07.03] 第七次更新，支持查看NVIDIA显卡信息，至于如何修改还在研究中。
 
+[2025.07.10] 第八次更新，支持修改NVIDIA显卡的UUID，兼容性有待测试，当前NVIDIA版本576.88测试正常。
+
 # 程序视频
 [程序使用教程](https://easylink.cc/ecc6rn)
 
@@ -49,11 +51,13 @@
 
 [设置自启动教程](https://easylink.cc/mitb6r)
 
+[修改NVIDIA显卡UUID教程](https://easylink.cc/aqhggh)
+
 # 在线文档
 [金山文档](https://www.kdocs.cn/l/cad0y7MyhKkM)
 
 # 下载地址
-[蓝奏云 2025.07.03](https://wwqp.lanzouw.com/ioPXx307ndcj "立即下载")
+[蓝奏云 2025.07.10](https://wwqp.lanzouw.com/iSMMy30rvdpa "立即下载")
 
 # 问题反馈
 [Telegram](https://t.me/indigosable)
