@@ -44,7 +44,7 @@
 
 [2025.07.23] 第九次更新，注册表过滤一些问题修复，支持从文件中导入配置。
 
-[2025.07.26] 第十次更新，优化了部分驱动算法。
+[2025.07.27] 第十次更新，优化了部分驱动算法。
 
 # 程序视频
 [程序使用教程](https://easylink.cc/ecc6rn)
@@ -61,7 +61,7 @@
 [金山文档](https://www.kdocs.cn/l/cad0y7MyhKkM)
 
 # 下载地址
-[蓝奏云 2025.07.26](https://wwqp.lanzouw.com/ighuZ31xoy1c "立即下载")
+[蓝奏云 2025.07.27](https://wwqp.lanzouw.com/ighuZ31xoy1c "立即下载")
 
 # 问题反馈
 [Telegram](https://t.me/indigosable)
